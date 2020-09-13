@@ -1,0 +1,206 @@
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.deps.json
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.runtimeconfig.json
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.runtimeconfig.dev.json
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.dll
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.pdb
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.Views.dll
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.Views.pdb
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.csprojAssemblyReference.cache
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.csproj.CoreCompileInputs.cache
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.RazorAssemblyInfo.cache
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.RazorAssemblyInfo.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.AssemblyInfoInputs.cache
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.AssemblyInfo.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.TagHelpers.input.cache
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.TagHelpers.output.cache
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.RazorCoreGenerate.cache
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.RazorTargetAssemblyInfo.cache
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.RazorTargetAssemblyInfo.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.Views.pdb
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.dll
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.pdb
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.csproj.CopyComplete
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Create.g.cshtml.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Delete.g.cshtml.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Details.g.cshtml.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Edit.g.cshtml.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Index.g.cshtml.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Purchase.g.cshtml.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Create.g.cshtml.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Delete.g.cshtml.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Details.g.cshtml.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Edit.g.cshtml.cs
+c:\users\rhawthorne\source\repos\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Index.g.cshtml.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\appsettings.json
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.deps.json
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.runtimeconfig.json
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.runtimeconfig.dev.json
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.dll
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.pdb
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.Views.dll
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.Views.pdb
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.csprojAssemblyReference.cache
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.AssemblyInfoInputs.cache
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.AssemblyInfo.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.csproj.CoreCompileInputs.cache
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.RazorAssemblyInfo.cache
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.RazorAssemblyInfo.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.TagHelpers.input.cache
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.TagHelpers.output.cache
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.RazorCoreGenerate.cache
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Create.cshtml.g.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Delete.cshtml.g.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Details.cshtml.g.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Edit.cshtml.g.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Index.cshtml.g.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Purchase.cshtml.g.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Create.cshtml.g.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Delete.cshtml.g.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Details.cshtml.g.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Edit.cshtml.g.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Index.cshtml.g.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.RazorTargetAssemblyInfo.cache
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.RazorTargetAssemblyInfo.cs
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.Views.pdb
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.dll
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.pdb
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.genruntimeconfig.cache
+D:\BICT\CDU final sem 2020\Distributed development\Assignment1\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.csproj.CopyComplete
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.deps.json
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.runtimeconfig.json
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.runtimeconfig.dev.json
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.dll
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.pdb
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.Views.dll
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.Views.pdb
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.csprojAssemblyReference.cache
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.AssemblyInfoInputs.cache
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.AssemblyInfo.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.RazorAssemblyInfo.cache
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.RazorAssemblyInfo.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.TagHelpers.input.cache
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.TagHelpers.output.cache
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.RazorCoreGenerate.cache
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Create.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Delete.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Details.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Edit.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Index.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Create.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Delete.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Details.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Edit.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Index.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.RazorTargetAssemblyInfo.cache
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.RazorTargetAssemblyInfo.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.Views.pdb
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.dll
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.pdb
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.genruntimeconfig.cache
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.csproj.CopyComplete
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Carts\Create.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Carts\Delete.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Carts\Details.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Carts\Edit.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Carts\Index.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Addtocart.cshtml.g.cs
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.csproj.CoreCompileInputs.cache
+C:\Users\prem\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.deps.json
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.runtimeconfig.json
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.runtimeconfig.dev.json
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.dll
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.pdb
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.Views.dll
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\bin\Debug\netcoreapp2.1\SalesBoard.Views.pdb
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.csprojAssemblyReference.cache
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.AssemblyInfoInputs.cache
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.AssemblyInfo.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.csproj.CoreCompileInputs.cache
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.RazorAssemblyInfo.cache
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.RazorAssemblyInfo.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.TagHelpers.input.cache
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.TagHelpers.output.cache
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.RazorCoreGenerate.cache
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Carts\Create.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Carts\Delete.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Carts\Details.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Carts\Edit.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Carts\Index.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Addtocart.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Create.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Delete.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Details.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Edit.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Items\Index.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Create.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Delete.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Details.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Edit.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Index.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.RazorTargetAssemblyInfo.cache
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.RazorTargetAssemblyInfo.cs
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.Views.pdb
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.dll
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.pdb
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.genruntimeconfig.cache
+C:\Users\sandi\Desktop\SalesBoard\SalesBoard\SalesBoard\obj\Debug\netcoreapp2.1\SalesBoard.csproj.CopyComplete
